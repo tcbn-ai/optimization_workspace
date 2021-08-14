@@ -40,3 +40,4 @@ Docker containerとしてPython3系の環境を構築．
 - 左下の"Open a Remote Window"をクリック．"Reopen in Container"を選択．
     - Containerの中身がVSCode上で開かれる．
     - あとはContainer内でコードを編集したり，実行したりする．
+- Ubuntu 20.04.2で動作確認済．
